@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  ConfirmDialogView.swift
 //  Dialogs
 //
 //  Created by Shah Md Imran Hossain on 28/10/23.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct ConfirmDialogView: View {
     var body: some View {
         VStack {
             Image(systemName: "globe")
@@ -20,5 +20,5 @@ struct ContentView: View {
 }
 
 #Preview {
-    ContentView()
+    ConfirmDialogView()
 }
