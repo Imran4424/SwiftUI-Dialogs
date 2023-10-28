@@ -11,6 +11,7 @@
 		1DE580A32AED0D0200082777 /* ConfirmDialogView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE580A22AED0D0200082777 /* ConfirmDialogView.swift */; };
 		1DE580A52AED0D0200082777 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DE580A42AED0D0200082777 /* Assets.xcassets */; };
 		1DE580A82AED0D0200082777 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DE580A72AED0D0200082777 /* Preview Assets.xcassets */; };
+		1DE580AF2AED112B00082777 /* AlertDialogView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DE580AE2AED112B00082777 /* AlertDialogView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		1DE580A22AED0D0200082777 /* ConfirmDialogView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConfirmDialogView.swift; sourceTree = "<group>"; };
 		1DE580A42AED0D0200082777 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1DE580A72AED0D0200082777 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1DE580AE2AED112B00082777 /* AlertDialogView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertDialogView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				1DE580A02AED0D0200082777 /* DialogsApp.swift */,
 				1DE580A22AED0D0200082777 /* ConfirmDialogView.swift */,
+				1DE580AE2AED112B00082777 /* AlertDialogView.swift */,
 				1DE580A42AED0D0200082777 /* Assets.xcassets */,
 				1DE580A62AED0D0200082777 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				1DE580A32AED0D0200082777 /* ConfirmDialogView.swift in Sources */,
 				1DE580A12AED0D0200082777 /* DialogsApp.swift in Sources */,
+				1DE580AF2AED112B00082777 /* AlertDialogView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
