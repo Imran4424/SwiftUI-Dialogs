@@ -44,7 +44,6 @@ struct ConfirmDialogView: View {
     }
 }
 
-
 #Preview {
     ConfirmDialogView()
 }
